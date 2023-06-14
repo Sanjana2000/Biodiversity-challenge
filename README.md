@@ -1,4 +1,8 @@
+
+# Javescript_d3_visualization_challenge
+
 # belly-button-challenge
+
 First, I read in the URL to fetch the JSON data. I used D3 to extract the all the data during the entirity of the project.
 
 I extracted the metadata and filtered it to accomodate for the selected test subject. I selected the panel from the HTML in which I wanted to place the demographic information and appended the information in key value pairs to the panel. 
